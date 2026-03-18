@@ -1,16 +1,15 @@
-# instax_analysis
-# Instax Sales Analysis 
+# instax_sales_analysis
 Project to analyze my Instax photo sales while learning Python, SQL, and Git. 
 
 Structure      
 
-data/: raw and processed data
+    data/: raw and processed data
 
-scripts/: Python code
+    scripts/: Python code
 
-notebooks/: Jupyter experiments
+    notebooks/: Jupyter experiments
 
-outputs/: results and charts
+    outputs/: results and charts
 
 
 Objectives
